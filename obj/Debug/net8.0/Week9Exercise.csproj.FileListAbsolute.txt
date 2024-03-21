@@ -1,0 +1,15 @@
+C:\NCMC\CIS106\Week9Exercise\obj\Debug\net8.0\Week9Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\NCMC\CIS106\Week9Exercise\obj\Debug\net8.0\Week9Exercise.AssemblyInfoInputs.cache
+C:\NCMC\CIS106\Week9Exercise\obj\Debug\net8.0\Week9Exercise.AssemblyInfo.cs
+C:\NCMC\CIS106\Week9Exercise\obj\Debug\net8.0\Week9Exercise.csproj.CoreCompileInputs.cache
+C:\NCMC\CIS106\Week9Exercise\obj\Debug\net8.0\Week9Exercise.sourcelink.json
+C:\NCMC\CIS106\Week9Exercise\bin\Debug\net8.0\Week9Exercise.exe
+C:\NCMC\CIS106\Week9Exercise\bin\Debug\net8.0\Week9Exercise.deps.json
+C:\NCMC\CIS106\Week9Exercise\bin\Debug\net8.0\Week9Exercise.runtimeconfig.json
+C:\NCMC\CIS106\Week9Exercise\bin\Debug\net8.0\Week9Exercise.dll
+C:\NCMC\CIS106\Week9Exercise\bin\Debug\net8.0\Week9Exercise.pdb
+C:\NCMC\CIS106\Week9Exercise\obj\Debug\net8.0\Week9Exercise.dll
+C:\NCMC\CIS106\Week9Exercise\obj\Debug\net8.0\refint\Week9Exercise.dll
+C:\NCMC\CIS106\Week9Exercise\obj\Debug\net8.0\Week9Exercise.pdb
+C:\NCMC\CIS106\Week9Exercise\obj\Debug\net8.0\Week9Exercise.genruntimeconfig.cache
+C:\NCMC\CIS106\Week9Exercise\obj\Debug\net8.0\ref\Week9Exercise.dll
